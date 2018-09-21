@@ -4,7 +4,6 @@
 	<groupId>io.projectriff.samples</groupId>
 	<artifactId>hello</artifactId>
 	<version>1.0.0</version>
-	<packaging>jar</packaging>
 
 	<name>hello</name>
 	<description>Sample Java hello for riff</description>

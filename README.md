@@ -15,6 +15,7 @@ riff function create java hello \
     --image $DOCKER_ID/java-hello:v1 \
     --verbose
 ```
+To set `$DOCKER_ID` do `export DOCKER_ID=your-docker-id`
 
 #### create from git repo, pushing image to GCR
 ```sh
@@ -23,6 +24,7 @@ riff function create java hello \
     --image gcr.io/$GCP_PROJECT/java-hello:v1 \
     --verbose
 ```
+To set `$GCP_PROJECT` do `export GCP_PROGECT=your-GCP-project-id`
 
 #### invoke
 ```
