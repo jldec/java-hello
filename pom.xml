@@ -7,6 +7,6 @@
 
 	<name>hello</name>
 	<description>Sample Java hello for riff</description>
-	<url>https://github.com/jldec/hello-java</url>
+	<url>https://github.com/projectriff-samples/java-hello</url>
 
 </project>
