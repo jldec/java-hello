@@ -5,6 +5,11 @@
 	<artifactId>hello</artifactId>
 	<version>1.0.0</version>
 
+	<properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+
 	<name>hello</name>
 	<description>Sample Java hello for riff</description>
 	<url>https://github.com/projectriff-samples/java-hello</url>
